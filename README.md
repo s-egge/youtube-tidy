@@ -14,7 +14,7 @@ The web application is currently in testing. We utilized the Google Cloud Consol
 
 If you don't have an ONID account, you can still "log in" as a Guest and preview the website with some testing data.
 
-[Click here to log in and check out our web app!](https://youtubetidy.netlify.app/)
+[Click here to log in and check out our web app!](https://youtube-tidy.netlify.app/)
 
 ## Screenshots (Homepage, playlists functionality, search)
 
